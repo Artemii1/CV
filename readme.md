@@ -1,6 +1,8 @@
 # Artemii Tokarev
 ### Python Developer
 
+
+![My pic](https://raw.githubusercontent.com/Artemii1/CV/1324aa544c509e9d80ce75dae8cd5c2858489c57/pic.JPG)
 ---
 
 ### Personal Details:
