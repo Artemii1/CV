@@ -1,7 +1,7 @@
 # Artemii Tokarev
 ### Python Developer
 <div align="right">
-    <img src="https://raw.githubusercontent.com/Artemii1/CV/1324aa544c509e9d80ce75dae8cd5c2858489c57/pic.JPG" alt="My pic" width="300" />
+    <img src="https://github.com/Artemii1/CV/blob/main/pic.JPG?raw=true" alt="My pic" width="300" />
 </div>
 
 ---
