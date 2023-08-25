@@ -5,8 +5,8 @@
 
 ### Personal Details:
 
-- **Email**: [artemiitokarev@proton.me]
-- **GitHub**: [https://github.com/Artemii1] 
+- **Email**: artemiitokarev@proton.me
+- **GitHub**: https://github.com/Artemii1 
 - **Location**: St. Petersburg, Russia
 
 ---
@@ -19,7 +19,7 @@
 - Developed and integrated with **APIs of major crypto exchanges** including Binance, Kucoin, Huobi, and Mexc for trading and data analysis purposes.
 - Leveraged **Telegram API** for automated notifications, posting in group/channels and bot interactions.
 - Utilized **Websockets** and **Asincio** for real-time data handling.
-- Performed **big data analysis on social sentiment** using the Twitter API.
+- Performed **data analysis on social sentiment** using the Twitter API.
 - Employed web scraping tools like **Selenium** and **BeautifulSoup** for extracting and parsing web data.
 
 ---
@@ -35,7 +35,7 @@
 ### Skills:
 
 - **Languages**: Python
-- **Frameworks/Libraries**: 
+- **Frameworks/Libraries/Systems**: 
   - Asincio
   - Websockets
   - Telebot
@@ -43,9 +43,13 @@
   - BeautifulSoup
   - Pandas
   - Numpy
+  - SQLite/PostgreSQL
+  - Djando
+  - Linux/Windows
 - **Specialties**:
   - Data acquisition and analysis
   - Interacting with various APIs, especially in the domain of crypto exchanges
+  - Trading bots
   
 ---
 
