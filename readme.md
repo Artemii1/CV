@@ -1,7 +1,7 @@
 # Artemii Tokarev
 ### Python Developer
 <div align="right">
-    <img src="https://github.com/Artemii1/CV/blob/main/pic.JPG?raw=true" alt="My pic" width="200" />
+    <img src="https://github.com/Artemii1/CV/blob/main/pic.JPG?raw=true" alt="My pic" width="250" />
 </div>
 
 ---
@@ -17,7 +17,7 @@
 ### Professional Experience:
 
 #### Python Developer | Crypto Innovations LLC, St. Petersburg, Russia
-*October 2021 - Present*
+*October 2020 - Present*
 
 - Developed and integrated with **APIs of major crypto exchanges** including Binance, Kucoin, Huobi, and Mexc for trading and data analysis purposes.
 - Leveraged **Telegram API** for automated notifications, posting in group/channels and bot interactions.
