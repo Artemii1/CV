@@ -3,9 +3,7 @@
 <div align="right">
     <img src="https://github.com/Artemii1/CV/blob/main/pic.JPG?raw=true" alt="My pic" width="250" />
 </div>
-
 ---
-
 ### Personal Details:
 
 - **Email**: artemiitokarev@proton.me
@@ -18,36 +16,35 @@
 
 #### Python Developer | Crypto Innovations LLC, St. Petersburg, Russia
 *October 2020 - Present*
-
+- Developed Web applications using **Flask** and **Django**.
+- Experienced in deploying and maintaining **PostgreSQL** and **SQLite** database systems for data management.
+- Utilized **Websockets** and **Asincio** for real-time data handling.
 - Developed and integrated with **APIs of major crypto exchanges** including Binance, Kucoin, Huobi, and Mexc for trading and data analysis purposes.
 - Leveraged **Telegram API** for automated notifications, posting in group/channels and bot interactions.
-- Utilized **Websockets** and **Asincio** for real-time data handling.
 - Performed **data analysis on social sentiment** using the Twitter API.
 - Employed web scraping tools like **Selenium** and **BeautifulSoup** for extracting and parsing web data.
-
----
-
-### Education:
-
-#### Institute of Trading and Economics, St. Petersburg
-*Technologies in Economics*
-2009 - 2014
 
 ---
 
 ### Skills:
 
 - **Languages**: Python
-- **Frameworks/Libraries/Systems**: 
+- **Frameworks**:
+  - Flask, Django
+- **Databases**:
+  - SQLite/PostgreSQ
+- **ORM**:
+  - SQLAlchemy
+
+- **Python libraries**:
   - Asincio
   - Websockets
-  - Telebot
+  - Telebot/Aiogram
   - Selenium
   - BeautifulSoup
   - Pandas
   - Numpy
-  - SQLite/PostgreSQL
-  - Djando
+- **OS**:
   - Linux/Windows
 - **Specialties**:
   - Data acquisition and analysis
@@ -55,10 +52,19 @@
   - Trading bots
   
 ---
-
 ### Languages:
 
 - English
 - Russian
+
+---
+### Education:
+
+#### Institute of Trading and Economics, St. Petersburg
+*Technologies in Economics*
+2009 - 2014
+
+
+
 
 
