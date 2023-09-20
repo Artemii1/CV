@@ -4,6 +4,7 @@
     <img src="https://github.com/Artemii1/CV/blob/main/pic.JPG?raw=true" alt="My pic" width="250" />
 </div>
 ---
+
 ### Personal Details:
 
 - **Email**: artemiitokarev@proton.me
