@@ -8,6 +8,7 @@
 ### Personal Details:
 
 - **Email**: artemiitokarev@proton.me
+- **Telegram**: https://t.me/AIexander_One
 - **GitHub**: https://github.com/Artemii1 
 - **Location**: St. Petersburg, Russia
 
