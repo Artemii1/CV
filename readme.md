@@ -34,12 +34,12 @@
 - **Frameworks**:
   - Flask, Django
 - **Databases**:
-  - SQLite/PostgreSQ
+  - SQLite/PostgreSQL
 - **ORM**:
   - SQLAlchemy
 
 - **Python libraries**:
-  - Asincio
+  - Asyncio
   - Websockets
   - Telebot/Aiogram
   - Selenium
@@ -49,8 +49,9 @@
 - **OS**:
   - Linux/Windows
 - **Specialties**:
+  - Web applications
+  - Interacting with various APIs
   - Data acquisition and analysis
-  - Interacting with various APIs, especially in the domain of crypto exchanges
   - Trading bots
   
 ---
